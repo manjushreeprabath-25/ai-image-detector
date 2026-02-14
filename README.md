@@ -1,3 +1,12 @@
+Build a responsive, modern website for an “AI Generated Image Detection System”.
+Project description:
+The website should allow users to upload an image and detect whether it is AI-generated or AI-manipulated. The system analyzes visual artifacts, metadata, and deep-learning signatures, then displays the detection result.
+Tech stack:
+Frontend: HTML, CSS, JavaScript (or React if suitable)
+Backend: Python (Flask)
+AI Model: Pre-trained deep learning model (CNN) placeholder logic is fine
+No database required initially
+
 # ai-image-detector
    ai_detector/
 ├── app.py              # Flask Backend
